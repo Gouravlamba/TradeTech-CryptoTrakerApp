@@ -1,0 +1,45 @@
+name: crypto_portfolio
+description: Crypto Portfolio Tracker - assignment scaffold
+
+# Flutter SDK version constraints
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Core Flutter packages
+  cupertino_icons: ^1.0.6
+
+  # State management and utilities
+  get: ^4.6.5
+  http: ^0.13.6
+  shared_preferences: ^2.1.1
+  intl: ^0.18.0
+
+  # UI and animations
+  flutter_svg: ^1.1.6
+  lottie: ^2.2.0
+  fl_chart: ^0.69.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  # Enable Material Design icons
+  uses-material-design: true
+
+  # Uncomment to add assets like images
+  assets:
+    - assets/image2.jpg
+    - assets/logo1.png
+    - assets/logo22.png
+
+  # Uncomment to add custom fonts
+  # fonts:
+  #   - family: CustomFont
+  #     fonts:
+  #       - asset: assets/fonts/CustomFont-Regular.ttf
