@@ -1,4 +1,4 @@
-<div align="center">12
+<div align="center">1
 
 ![TradeTech Logo](assets/logo1.png)
 
