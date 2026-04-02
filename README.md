@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![CoinGecko API](https://img.shields.io/badge/CoinGecko-API-00A300?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.coingecko.com/en/api)
 
-**A modern, cross-platform cryptocurrency portfolio tracking application built with Flutter
+**A modern, cross-platform cryptocurrency portfolio tracking application built with
 
 Track your crypto investments • Real-time market data • Beautiful UI • Dark/Light Themes
 
