@@ -12,7 +12,7 @@
 
 **A modern, cross-platform cryptocurrency portfolio tracking application built with flutter**
 
-Track your crypto investments • Real-time market data • Beautiful UI • Dark/Light Themes
+Track your crypto investments • Real-time market data • Beautiful UI • Dark/Light 
 
 [Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Screenshots](#-screenshots)
 
