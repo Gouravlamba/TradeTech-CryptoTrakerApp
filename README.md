@@ -1,6 +1,6 @@
 <div align="center">
 
-![TradeTech Logo](assets/logo1.png)
+![TradeTech Logo](assets/logo1.png) >
 
 # 💹 TradeTech - Crypto Portfolio Tracker
 
