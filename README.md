@@ -2,7 +2,7 @@
 
 ![TradeTech Logo](assets/logo1.png)
 
-# 💹 TradeTech - Crypto Portfolio Tracker
+# 💹 TradeTech - Crypto Portfolio Tracke
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-2.18+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
