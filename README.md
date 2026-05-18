@@ -19,8 +19,7 @@ Track your crypto investments
 ## beatiful almost here
 ## table of contents
 ## here is my final aoutput for this
-## list of figures for this project 
-## list of contents for this project  
+## list of figures for this project   
 
 [Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Screenshots](#-screenshots)
 
