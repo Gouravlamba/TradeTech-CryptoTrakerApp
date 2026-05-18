@@ -22,6 +22,7 @@ Track your crypto investments
 ## table of contents
 ## here is my final aoutput for this
 ## list of figures for this project 
+## list of contents for this project 
 
 [Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Screenshots](#-screenshots)
 
