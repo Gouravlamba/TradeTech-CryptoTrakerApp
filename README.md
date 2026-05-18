@@ -1,6 +1,5 @@
 <div align="center">
 ## logo making
-## its an logo that makes for the logo making contents
 
 ![TradeTech Logo](assets/logo1.png)
 
