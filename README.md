@@ -24,6 +24,7 @@ Track your crypto investments
 ## list of figures for this project 
 ## list of contents for this project 
 ## future advice for this contents 
+## list advance methdology for this events
 
 [Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Screenshots](#-screenshots)
 
