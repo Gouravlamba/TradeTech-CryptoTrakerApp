@@ -18,8 +18,7 @@ Track your crypto investments
 • Dark/Light Thems
 ## beatiful almost here
 ## table of contents
-## here is my final aoutput for this
-## list of figures for this project   
+## here is my final aoutput for this  
 
 [Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Screenshots](#-screenshots)
 
