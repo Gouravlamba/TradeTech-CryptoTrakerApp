@@ -18,6 +18,7 @@ Track your crypto investments
 • Real-time market data 
 • Beautiful UI 
 • Dark/Light Thems
+## beatiful almost here
 
 [Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Screenshots](#-screenshots)
 
