@@ -1,7 +1,6 @@
 <div align="center">
 ## react js
 ## angular js
-## crypto creaker application
 
 ![TradeTech Logo](assets/logo1.png)
 
