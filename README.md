@@ -1,6 +1,5 @@
 <div align="center">
 ## react js
-## angular js
 
 ![TradeTech Logo](assets/logo1.png)
 
