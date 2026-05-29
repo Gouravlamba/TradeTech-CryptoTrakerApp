@@ -18,7 +18,6 @@ Track your crypto investments
 • Dark/Light Thems
 
 . real time updates
-.then it is an fronted app
 
 [Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Screenshots](#-screenshots)
 
