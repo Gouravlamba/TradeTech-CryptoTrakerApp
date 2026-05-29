@@ -17,6 +17,8 @@ Track your crypto investments
 • Beautiful UI 
 • Dark/Light Thems
 
+. real time updates
+
 [Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Screenshots](#-screenshots)
 
 </div>
