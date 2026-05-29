@@ -21,7 +21,6 @@ Track your crypto investments
 .then it is an fronted app
 .application for the frontend and backend 
 . the managemant team will contect to you
-. here also hiring for the developer role
 
 [Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Screenshots](#-screenshots)
 
