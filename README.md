@@ -20,6 +20,7 @@ Track your crypto investments
 . real time updates
 .then it is an fronted app
 .application for the frontend and backend 
+. the managemant team will contect to you
 
 [Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Screenshots](#-screenshots)
 
