@@ -22,6 +22,7 @@ Track your crypto investments
 .application for the frontend and backend 
 . the managemant team will contect to you
 . here also hiring for the developer role
+. if youare the developer the write an application over here
 
 [Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Screenshots](#-screenshots)
 
