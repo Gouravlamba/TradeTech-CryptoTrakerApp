@@ -1,6 +1,8 @@
 <div align="center">
 
 ![TradeTech Logo](assets/logo1.png)
+## it is an app that use for finding and analying the insides of the clients
+
 
 # 💹 TradeTech - Crypto Portfolio Tracker
 
