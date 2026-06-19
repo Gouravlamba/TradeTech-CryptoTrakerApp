@@ -6,7 +6,6 @@
 ## it is the way of developing projcts using this framework
 ## use the library and to build an new project 
 ## to track the application and all envirement 
-## trade track in an application that have our owen appication to build and test is on the prodection level
 
 
 
