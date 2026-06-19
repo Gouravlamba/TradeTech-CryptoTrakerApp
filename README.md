@@ -2,6 +2,8 @@
 
 ![TradeTech Logo](assets/logo1.png)
 ## it is an app that use for finding and analying the insides of the clients
+## if you want to build your communication is very farter and easer then you can use it 
+
 
 
 # 💹 TradeTech - Crypto Portfolio Tracker
